@@ -15,5 +15,5 @@
 #效果
 ![](https://github.com/HotWordland/WaterFallDynamic/blob/master/effect.png)
 
-#LonLonStudio - WL -(重庆社区ios开发者巫龙 ^_^)
+#重庆开发者 - http://codercq.com
 
